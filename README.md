@@ -3,6 +3,14 @@
 
 > Thinking ! Thinking ! Thinking !
 
+### 2. 万物皆对象 [Object](src/thinkinginjava/object/)
+
+* 寄存器、stack、heap、constant storage、non-RAM storage
+* 基本类型：提高效率，存放在栈上
+* 数组：对象（C++中是开放的内存块）
+* 对象生命周期
+
+
 
 ### 5. 初始化与清理 [initialization](src/thinkinginjava/initialization/)
 
