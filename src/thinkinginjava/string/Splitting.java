@@ -1,8 +1,11 @@
-//: strings/Splitting.java
 package thinkinginjava.string;
 
 import java.util.Arrays;
 
+/**
+ * \w 表示单词字符， \W 非单词字符
+ *
+ */
 public class Splitting {
 	public static String knights = "Then,  when you have found the shrubbery, you must "
 			+ "cut down the mightiest tree in the forest... "
