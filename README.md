@@ -30,6 +30,12 @@
 
 ### 14. 类型信息 [typeinfo](src/thinkinginjava/typeinfo/)
 
+
+* 动态代理 :+1: 
+
+
+
+
 ### 15. 泛型 [generics](src/thinkinginjava/generics/)
 
 ### 21. 并发 [concurrency](src/thinkinginjava/concurrency/)
